@@ -7,7 +7,7 @@ A Dockerfile for [Headphones](https://github.com/rembo10/headphones/).
 ## Volumes
 
 ### `/data`
-### `/music-hd
+### `/music-hd`
 
 Configuration files and state for Headphones.
 
