@@ -11,6 +11,7 @@ RUN git clone https://github.com/rembo10/headphones.git /headphones
 ADD start.sh /start.sh
 
 VOLUME ["/data"]
+VOLUME ["/music-hd"]
 EXPOSE 8181
 
 CMD ["/start.sh"]
