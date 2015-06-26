@@ -8,6 +8,9 @@ A Dockerfile for [Headphones](https://github.com/rembo10/headphones/).
 
 ### `/data`
 ### `/music-hd`
+### `/torrent`
+### `/nzb`
+
 
 Configuration files and state for Headphones.
 
