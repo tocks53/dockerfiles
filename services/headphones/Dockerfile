@@ -12,6 +12,8 @@ ADD start.sh /start.sh
 
 VOLUME ["/data"]
 VOLUME ["/music-hd"]
+VOLUME ["/torrent"]
+VOLUME ["/nzb"]
 EXPOSE 8181
 
 CMD ["/start.sh"]
